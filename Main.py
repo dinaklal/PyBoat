@@ -13,4 +13,4 @@ while sentence != "exit":
     if reply is None:
         reply = "I am not undertanding your language"
     print(reply)
-    
+    9
