@@ -2,9 +2,9 @@ from kivy.app import App
 from kivy.uix.button import Button
 from kivy.uix.button import Label
 
-class TestApp(App):
+class MainApp(App):
     def build(self):
        # return Button(text='Hello World')
-        return Label(text='Hello dfdfWorld')
+        return Label()
 
-TestApp().run()
+MainApp().run()
