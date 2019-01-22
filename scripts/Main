@@ -1,5 +1,5 @@
-from scripts.greeting import check_for_greeting
-from scripts.chats import chats
+from greeting import check_for_greeting
+from chats import chats
 
 # greetings
 sentence = input(" ")
